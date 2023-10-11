@@ -1,4 +1,5 @@
 WARNING!!
+
 Sebelumnya mohon maaf sekali bila tampilan file yang masih berantakan dan beberapa kode yang kurang sempurna,
 dikarenakan kita juga yang masih dalam tahap pembelajaran dan pengembangan
 DAN mohon maaf sekali bila isi konten dari website ini / projek ini ada yang menyinggung broku-broku sekalian..
